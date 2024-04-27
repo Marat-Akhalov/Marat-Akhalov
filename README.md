@@ -1,4 +1,5 @@
-[Codewars](https://www.codewars.com/users/Marat_Akhalov/badges/small)
+[Profile](https://www.codewars.com/users/Marat_Akhalov)
+![Codewars](https://www.codewars.com/users/Marat_Akhalov/badges/small)
 
 
 <!--
