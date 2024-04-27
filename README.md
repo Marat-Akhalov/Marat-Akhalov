@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/[codewars?user=Marat_Akhalov&stroke=%#216c65c4](https://www.codewars.com/users/Marat_Akhalov/badges/micro))
+![Codewars]([codewars?user=Marat_Akhalov&stroke=%#216c65c4](https://www.codewars.com/users/Marat_Akhalov/badges/micro))
 
 
 <!--
