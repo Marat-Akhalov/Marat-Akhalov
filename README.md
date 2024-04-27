@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=Marat_Akhalov&stroke=#216c65)
+![Codewars](https://github.r2v.ch/codewars?user=Marat_Akhalov&stroke=%#216c65)
 
 
 <!--
