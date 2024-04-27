@@ -1,4 +1,4 @@
-[![Codewars](https://www.codewars.com/users/Marat_Akhalov/badges/small)](https://www.codewars.com/users/Marat_Akhalov/completed)
+[![Codewars](https://www.codewars.com/users/Marat_Akhalov/badges/micro)](https://www.codewars.com/users/Marat_Akhalov/completed)
 
 
 <!--
